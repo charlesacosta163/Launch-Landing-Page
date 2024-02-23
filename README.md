@@ -7,8 +7,11 @@ Tech Stack/s: React.js & Tailwind CSS
 ## Features:
 
 **Modular design**: Create your website with a modular design that allows for easy customization and rearrangement.
+
 **Responsive sections**: Ensure your website looks great on all devices with responsive design sections that adapt to different screen sizes.
+
 **Professional design**: Choose from professionally designed templates and elements to give your website a polished and professional look.
+
 
 --> **Save time and design fast**
 With Launch, you can save time and design your website quickly and efficiently thanks to intuitive tools and pre-designed elements.

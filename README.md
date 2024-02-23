@@ -32,6 +32,17 @@ Launch provides everything you need to get your website up and running quickly, 
 
 Maintain a consistent brand identity across your website with built-in tools and guidelines for design consistency.
 
+## How We Built It:
+
+We both split the project tasks based on our strengths and interests. In this section, we first designed the layout and user interface using Figma. Our design process involved wireframing, prototyping, and iterating on various design concepts until we achieved a cohesive and visually appealing layout.
+
+Once we finalized the design, we proceeded to implement it using React for the frontend. We leveraged React's component-based architecture to build reusable UI elements and create a dynamic user experience. Additionally, we utilized state management libraries such as Redux to manage application state and ensure data consistency across components.
+
+For styling, we opted for Tailwind CSS due to its utility-first approach and ease of use. Tailwind allowed us to quickly style our components using pre-defined utility classes, resulting in a consistent and responsive design across different screen sizes and devices.
+
+Overall, our collaborative approach, combined with the use of modern technologies and development practices, enabled us to successfully build a robust and user-friendly application that meets the needs of our target audience.
+
+Demo: https://65d816105405ae8d8c61e0f1--helpful-paletas-73c052.netlify.app/
 
 2024 - Charles Acosta & Kemar Graham
 The College of New Jersey Hackathon 2024 submission
